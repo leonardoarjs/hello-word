@@ -1,5 +1,5 @@
-# hello-word
-my first github repository
+# Leonardo Almeida Santana
+This is my first github repository
 
 Hello people!
 
